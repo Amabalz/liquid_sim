@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v2n",
+				"v2n_next"
+			],
+			[
+				"get",
+				"get_width"
+			],
+			[
+				"ge",
+				"get_width"
+			],
+			[
+				"darkg",
+				"darkgreen"
+			],
+			[
+				"dark",
+				"darkblue"
+			],
+			[
+				"line-",
+				"line-height"
+			],
+			[
+				"ora",
+				"orange"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"lightye",
+				"lightgoldenrodyellow"
+			],
+			[
+				"border-top-",
+				"border-top-width"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"gr",
+				"dimgray"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tre",
+				"tribute-info"
+			],
+			[
+				"gray",
+				"darkgray"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"new",
+				"newsHref"
+			],
+			[
+				"predic",
+				"predict1"
+			],
+			[
+				"x",
+				"x_train"
+			],
+			[
+				"dl",
+				"dl_db"
+			],
+			[
+				"y",
+				"yi"
+			],
+			[
+				"y_ha",
+				"y_hati"
+			],
+			[
+				"mat",
+				"matplotlib"
+			],
+			[
+				"thing",
+				"thing_width"
+			],
+			[
+				"car",
+				"car_height"
+			],
+			[
+				"thing_start",
+				"thing_startx"
+			],
+			[
+				"display",
+				"display_width"
+			],
+			[
+				"x_",
+				"x_change_right"
+			],
+			[
+				"chang",
+				"change_left"
+			],
+			[
+				"change",
+				"change_right"
+			],
+			[
+				"game",
+				"game_won"
+			],
+			[
+				"player",
+				"player_choice"
+			],
+			[
+				"col",
+				"column_choice"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"package resoure",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pyton",
+				"Build With: Python"
+			],
+			[
+				"prv",
+				"Permute Lines: Reverse"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"select color s",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"select color",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 226.0,
+		"history":
+		[
+			"virtualenv",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Projects/Python/bigone/main.py",
+		"/E/Projects/Python/webscraper/barca.py",
+		"/E/Projects/Python/liquidsim/liquidsim.py",
+		"/E/Projects/Python/particlecollision/liquidsim.py",
+		"/E/Projects/Python/particlecollision/particlecollision.py",
+		"/C/Users/iq2ad/AppData/Roaming/Sublime Text/Packages/User/liquidsim.sublime-build",
+		"/C/Users/iq2ad/AppData/Roaming/Sublime Text/Packages/User/realpython.sublime-build",
+		"/E/Projects/Python/py3tutorials/py3game_1.py",
+		"/E/Projects/Python/py3tutorials/py3tutorial_1.py",
+		"/E/Projects/Python/py3tutorials/buttons.py",
+		"/E/Projects/Python/py3tutorials/training_grounds.py",
+		"/C/Users/iq2ad/AppData/Roaming/Sublime Text/Packages/User/realpython",
+		"/E/Projects/Python/py3tutorials/py3game_1.sublime-workspace",
+		"/C/Users/iq2ad/AppData/Roaming/Sublime Text/Packages/Python/Python.sublime-build",
+		"/E/importsys.py",
+		"/E/Programs/Python/python.exe",
+		"/E/Important/ccc/problem1.cpp",
+		"/E/Projects/C++/try1.cpp",
+		"/E/Projects/C++/try.cpp",
+		"/E/Projects/Python/random/gradient_decent_1.py",
+		"/E/Projects/Portofolio/doc-page/styles.css",
+		"/E/Projects/Portofolio/doc-page/main.html",
+		"/E/Projects/Portofolio/tribute/main.html",
+		"/E/Projects/Portofolio/tribute/styles.css",
+		"/E/Projects/Portofolio/webpage/main.html",
+		"/E/Projects/Portofolio/webpage/styles.css",
+		"/E/Projects/Python/random/plab_linearregression/main.py",
+		"/E/Projects/Python/random/course4_lab4.py",
+		"/E/Projects/Python/random/try1.py"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/liquidsim.sublime-build",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
